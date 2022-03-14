@@ -19,6 +19,8 @@
     </a>
 </div>
 
+<br><br>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardordf&layout=compact)" alt="ricardordf_langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardordf&theme=github_dark&layout=compact)" alt="ricardordf_langs" />
 </div>
