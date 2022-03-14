@@ -8,7 +8,7 @@
 
 ### Contact
 
-elrichardev@gmail.com
+➤ elrichardev@gmail.com
 
 <div align="center">
     <a href="https://www.linkedin.com/in/ricardordf/" target="_blank">
@@ -20,5 +20,5 @@ elrichardev@gmail.com
 </div>
 
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardordf&layout=compact)" alt="ricardordf_langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardordf&layout=compact)" alt="ricardordf_langs" />
 </div>
