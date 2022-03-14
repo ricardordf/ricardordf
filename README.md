@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ricardordf&hide=[%22stars%22]&show_icons=true" alt="ricardordf" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ricardordf&theme=github_dark&hide=[%22stars%22]&show_icons=true" alt="ricardordf" />
 
 ### Hi, I'm Ricardo Delgado !!
 
